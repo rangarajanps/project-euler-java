@@ -18,7 +18,7 @@ class Problem28Test {
 			"505,85986601",
 			"1001,669171001"
 	})
-	void testSumEvenFiboNumbers(int input, int expected) {
+	void testSumSpiralDiagonals(int input, int expected) {
 		 assertEquals(expected, Problem28.sumSpiralDiagonals(input));
 	}
 

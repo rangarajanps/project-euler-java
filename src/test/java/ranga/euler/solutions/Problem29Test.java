@@ -18,7 +18,7 @@ class Problem29Test {
 			"25,519",
 			"30,755"
 	})
-	void testSumEvenFiboNumbers(int input, int expected) {
+	void testLengthDistinctPowerSequence(int input, int expected) {
 		 assertEquals(expected, Problem29.lengthDistinctPowerSequence(input));
 	}
 
