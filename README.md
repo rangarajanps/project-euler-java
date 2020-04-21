@@ -11,4 +11,5 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>28. Number spiral diagonals</li>
   <li>29. Distinct powers</li>
   <li>30. Digit n powers</li>
+  <li>31. Coin Sums</li>
 </td>
