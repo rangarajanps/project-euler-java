@@ -15,15 +15,15 @@ class Problem15Test {
 	
 	@DisplayName("Tests solution for Euler Problem 15 - Lattice Paths")
 	@ParameterizedTest(name = "{index} => input={0}, expected={1}")
-	@MethodSource("testRequestLoan_Parameters")
-	void testLengthDistinctPowerSequence(int input, int expected) {
+	@MethodSource("testLatticePaths_Parameters")
+	void testLatticePaths(int input, BigInteger expected) {
 		 assertEquals(expected, Problem15.latticePaths(input));
 	}
 	
-	static Stream<Arguments> testRequestLoan_Parameters() throws Throwable {
+	static Stream<Arguments> testLatticePaths_Parameters() throws Throwable {
         return Stream.of(
-            Arguments.of(4, 70),
-            Arguments.of(9, 48620),
+            Arguments.of(4, new BigInteger("70")),
+            Arguments.of(9, new BigInteger("48620")),
             Arguments.of(20, new BigInteger("137846528820"))
         );
     }

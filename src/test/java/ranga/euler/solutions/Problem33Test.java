@@ -10,7 +10,7 @@ class Problem33Test {
 	
 	@DisplayName("Tests solution for Euler Problem 33 - Digit cancelling fractions")
 	@Test
-	void testLengthDistinctPowerSequence() {
+	void testLowestDenominatorOfDigitCancelling() {
 		 assertEquals(100, Problem33.lowestDenominatorOfDigitCancelling());
 	}
 

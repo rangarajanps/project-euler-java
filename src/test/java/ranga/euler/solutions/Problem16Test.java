@@ -17,7 +17,7 @@ class Problem16Test {
 		"128,166",
 		"1000,1366"
 	})
-	void testLengthDistinctPowerSequence(int input, int expected) {
+	void testPowerDigitSum(int input, int expected) {
 		 assertEquals(expected, Problem16.powerDigitSum(input));
 	}
 

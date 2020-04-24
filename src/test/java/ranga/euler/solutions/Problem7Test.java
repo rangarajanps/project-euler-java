@@ -7,19 +7,20 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
 
-class Problem31Test {
+class Problem7Test {
 	
 
 	@ParameterizedTest
-	@DisplayName("Tests solution for Euler Problem 31 - Coins Sum")
+	@DisplayName("Tests solution for Euler Problem 7 - 10001st prime")
 	@CsvSource({
-		"50,451",
-		"100,4563",
-		"150,21873",
-		"200,73682"
+		"6,13",
+		"10,29",
+		"100,541",
+		"1000,7919",
+		"10001,104743"
 	})
-	void testCoinsSum(int input, int expected) {
-		 assertEquals(expected, Problem31.coinsSum(input));
+	void testGenerateNthPrime(int input, int expected) {
+		 assertEquals(expected, Problem7.generateNthPrime(input));
 	}
 
 }

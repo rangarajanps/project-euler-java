@@ -18,7 +18,7 @@ class Problem30Test {
 		"4,19316",
 		"5,443839"
 	})
-	void testLengthDistinctPowerSequence(int input, int expected) {
+	void testSumOfNDigitPowers(int input, int expected) {
 		 assertEquals(expected, Problem30.sumOfNDigitPowers(input));
 	}
 

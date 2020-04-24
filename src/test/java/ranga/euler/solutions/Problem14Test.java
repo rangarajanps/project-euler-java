@@ -19,7 +19,7 @@ class Problem14Test {
 		"54512,52527",
 		"100000,77031"
 	})
-	void testLengthDistinctPowerSequence(int input, int expected) {
+	void testLongestCollatzSequence(int input, int expected) {
 		 assertEquals(expected, Problem14.longestCollatzSequence(input));
 	}
 

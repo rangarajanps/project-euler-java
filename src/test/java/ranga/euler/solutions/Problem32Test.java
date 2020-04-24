@@ -10,7 +10,7 @@ class Problem32Test {
 	
 	@DisplayName("Tests solution for Euler Problem 32 - Pandigital products")
 	@Test
-	void testLengthDistinctPowerSequence() {
+	void testPandigitalProducts() {
 		 assertEquals(45228, Problem32.pandigitalProducts());
 	}
 

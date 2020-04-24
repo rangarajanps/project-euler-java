@@ -10,7 +10,7 @@ class Problem34Test {
 	
 	@DisplayName("Tests solution for Euler Problem 34 - Digit factorials")
 	@Test
-	void testLengthDistinctPowerSequence() {
+	void testSumOfDigitFactorial() {
 		Problem34 soln = new Problem34();
 		 assertEquals(40730, soln.sumOfDigitFactorial());
 	}

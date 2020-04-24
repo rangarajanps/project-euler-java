@@ -7,19 +7,20 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
 
-class Problem31Test {
+class Problem20Test {
 	
 
 	@ParameterizedTest
-	@DisplayName("Tests solution for Euler Problem 31 - Coins Sum")
+	@DisplayName("Tests solution for Euler Problem 20 - Factorial digit sum")
 	@CsvSource({
-		"50,451",
-		"100,4563",
-		"150,21873",
-		"200,73682"
+		"10,27",
+		"25,72",
+		"50,216",
+		"75,432",
+		"100,648"
 	})
-	void testCoinsSum(int input, int expected) {
-		 assertEquals(expected, Problem31.coinsSum(input));
+	void testFactorialDigitSum(int input, int expected) {
+		 assertEquals(expected, Problem20.factorialDigitSum(input));
 	}
 
 }
