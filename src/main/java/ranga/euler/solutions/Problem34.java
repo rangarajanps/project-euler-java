@@ -12,13 +12,14 @@ public class Problem34 {
 	}
 
 	public int sumOfDigitFactorial() {
-		
+
 		return IntStream.rangeClosed(100, 40888).filter(i -> isDigitFactorial(i)).sum();
-		
+
 	}
 
 	/*
-	 * Storing the factorials for 0 to 9 so that it does not have to be calculated repeatedly
+	 * Storing the factorials for 0 to 9 so that it does not have to be calculated
+	 * repeatedly
 	 */
 	private int[] generateFactorials() {
 
@@ -39,8 +40,9 @@ public class Problem34 {
 	}
 
 	/*
-	 * For 3 digit number, if it contains any digit greater than 5, its sum will not be 3 digits
-	 * Similarly for 4 & 5 digit numbers, filtering is done based on converting int to String 
+	 * For 3 digit number, if it contains any digit greater than 5, its sum will not
+	 * be 3 digits Similarly for 4 & 5 digit numbers, filtering is done based on
+	 * converting int to String
 	 */
 	private boolean isDigitFactorial(int num) {
 
