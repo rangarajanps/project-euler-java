@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-20/34 solved
+21/35 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -28,4 +28,5 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>32. Pandigital products</li>
   <li>33. Digit cancelling fractions</li>
   <li>34. Digit factorials</li>
+  <li>35. Circular primes</li>
 </td>
