@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-22/36 solved
+23/37 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -30,4 +30,5 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>34. Digit factorials</li>
   <li>35. Circular primes</li>
   <li>36. Double-base palindromes</li>
+  <li>37. Truncatable primes</li>
 </td>
