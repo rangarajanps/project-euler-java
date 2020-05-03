@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-31/42 solved
+32/43 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -39,4 +39,5 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>40. Champernowne's constant</li>
   <li>41. Pandigital prime</li>
   <li>42. Coded triangle numbers</li>
+  <li>43. Sub-string divisibility</li>
 </td>
