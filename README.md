@@ -1,14 +1,17 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-28/42 solved
+31/42 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
   <li>2. Even Fibonacci Numbers</li>
   <li>3. Largest prime factor</li>
-  </br>
+  <li>4. Largest palindrome product</li>
+  <li>5. Smallest multiple</li>
+  <li>6. Sum square difference</li>
   <li>7. 10001st prime</li>
+  </br>
   <li>10. Summation of primes</li>
   </br>
   <li>13. Large Sum</li>
