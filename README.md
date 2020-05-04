@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-32/43 solved
+35/44 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -11,7 +11,8 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>5. Smallest multiple</li>
   <li>6. Sum square difference</li>
   <li>7. 10001st prime</li>
-  </br>
+  <li>8. Largest product in a series</li>
+  <li>9. Special Pythagorean triplet</li>
   <li>10. Summation of primes</li>
   </br>
   <li>13. Large Sum</li>
@@ -40,4 +41,5 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>41. Pandigital prime</li>
   <li>42. Coded triangle numbers</li>
   <li>43. Sub-string divisibility</li>
+  <li>44. Pentagon numbers</li>
 </td>
