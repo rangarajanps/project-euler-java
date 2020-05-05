@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-35/44 solved
+37/44 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -14,7 +14,8 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>8. Largest product in a series</li>
   <li>9. Special Pythagorean triplet</li>
   <li>10. Summation of primes</li>
-  </br>
+  <li>11. Largest product in a grid</li>
+  <li>12. Highly divisible triangular number</li>
   <li>13. Large Sum</li>
   <li>14. Longest Collatz sequence</li>
   <li>15. Lattice Paths</li>
