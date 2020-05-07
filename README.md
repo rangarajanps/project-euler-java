@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-40/46 solved
+44/48 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -20,7 +20,8 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>14. Longest Collatz sequence</li>
   <li>15. Lattice Paths</li>
   <li>16. Power digit sum</li>
-  </br>
+  <li>17. Number letter counts</li>
+  <li>18. Maximum path sum I</li>
   <li>19. Counting Sundays</li>
   <li>20. Factorial Digit Sum</li>
   </br>
@@ -46,4 +47,7 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>44. Pentagon numbers</li>
   <li>45. Triangular, pentagonal, and hexagonal</li>
   <li>46. Goldbach's other conjecture</li>
+  <li>47. Distinct primes factors</li>
+  </br>
+  <li>67. Maximum path sum II</li>
 </td>
