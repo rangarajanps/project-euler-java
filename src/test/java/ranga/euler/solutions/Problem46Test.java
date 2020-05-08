@@ -9,7 +9,7 @@ public class Problem46Test {
 	
 	@DisplayName("Tests solution for Euler Problem 46 - Goldbach's other conjecture")
 	@Test
-	void testPentagonNumbers() {
+	void testGoldbachOtherConjecture() {
 		 assertEquals(5777, Problem46.goldbachOtherConjecture());
 	}
 

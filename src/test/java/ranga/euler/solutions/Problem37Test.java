@@ -16,7 +16,7 @@ public class Problem37Test {
 		"10,8920",  
 		"11,748317"
 	})
-	void testCircularPrimeCount(int input, int expected) {
+	void testTruncatablePrimeSum(int input, int expected) {
 		 assertEquals(expected, Problem37.truncatablePrimeSum(input));
 	}
 }

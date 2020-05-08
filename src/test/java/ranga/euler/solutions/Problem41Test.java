@@ -14,7 +14,7 @@ public class Problem41Test {
 		"4,4231", 
 		"7,7652413", 
 	})
-	void testCircularPrimeCount(int input, int expected) {
+	void testLargestNLengthPandigitalPrime(int input, int expected) {
 		 assertEquals(expected, Problem41.largestNLengthPandigitalPrime(input));
 	}
 

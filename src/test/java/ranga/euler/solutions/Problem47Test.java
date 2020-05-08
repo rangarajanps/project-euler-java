@@ -15,7 +15,7 @@ public class Problem47Test {
 		"3, 644",
 		"4, 134043",
 	})
-	void testCountingSundays(int input, int expected) {
+	void testDistinctPrimeFactors(int input, int expected) {
 		 assertEquals(expected, Problem47.distinctPrimeFactors(input));
 	}
 }
