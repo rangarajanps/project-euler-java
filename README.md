@@ -1,7 +1,7 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-45/49 solved
+47/49 solved
 
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
@@ -24,6 +24,8 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>18. Maximum path sum I</li>
   <li>19. Counting Sundays</li>
   <li>20. Factorial Digit Sum</li>
+  <li>21. Amicable numbers</li>
+  <li>22. Names scores</li>
   </br>
   <li>25. 1000-digit Fibonacci number</li>
   <li>26. Reciprocal cycles</li>
