@@ -1,8 +1,6 @@
 # Project Euler Solutions in Java
 To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.org site
 
-47/49 solved
-
 <td>
   <li>1. Sum of multiples of 3 and 5 for a given number "n"</li>
   <li>2. Even Fibonacci Numbers</li>
@@ -26,7 +24,8 @@ To post the solutions of Project Euler challenges I am trying in FreeCodeCamp.or
   <li>20. Factorial Digit Sum</li>
   <li>21. Amicable numbers</li>
   <li>22. Names scores</li>
-  </br>
+  <li>23. Non-abundant sums</li>
+  <li>24. Lexicographic permutations</li>
   <li>25. 1000-digit Fibonacci number</li>
   <li>26. Reciprocal cycles</li>
   <li>27. Quadratic primes</li>
